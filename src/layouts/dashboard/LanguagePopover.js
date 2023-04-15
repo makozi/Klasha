@@ -11,17 +11,17 @@ import Iconify from '../../components/Iconify';
 
 const LANGS = [
   {
-    value: 'en',
+    value: 'EN',
     label: 'English',
     icon: '/static/icons/ic_flag_en.svg',
   },
   {
-    value: 'de',
+    value: 'DE',
     label: 'German',
     icon: '/static/icons/ic_flag_de.svg',
   },
   {
-    value: 'fr',
+    value: 'FR',
     label: 'French',
     icon: '/static/icons/ic_flag_fr.svg',
   },
@@ -70,7 +70,7 @@ export default function LanguagePopover() {
           mt: 1.5,
           ml: 0.75,
           width: 180,
-          '& .MuiMenuItem-root': { px: 1, typography: 'body2', borderRadius: 0.75 },
+          '& .MuiMenuItem-root': { px: 1, typography: 'body3', borderRadius: 0.75 },
         }}
       >
         <Stack spacing={0.75}>

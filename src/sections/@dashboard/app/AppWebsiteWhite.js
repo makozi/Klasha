@@ -43,6 +43,7 @@ export default function AppWebsiteWhite({ title, subheader, titlebottom, total,
         height:"96%",
         color: "black",
         bgcolor: "#fff",
+       border :'2px solid black',
          
       }} {...other}>
       <CardHeader title={title} subheader={subheader} />

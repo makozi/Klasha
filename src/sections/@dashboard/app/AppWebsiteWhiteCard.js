@@ -44,8 +44,10 @@ export default function AppWebsiteWhiteCard({ title, subheader,  titletop,titleb
         height:"96%",
         color: "black",
         bgcolor: "#fff",
+       border :'2px solid black',
+        
          
-      }} {...other}>
+      }}   {...other}>
       <CardHeader title={title} subheader={subheader} />
       <Typography variant="h5" sx={{ opacity: 0.72 , pl:3}}>
   {titletop}

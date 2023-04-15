@@ -36,7 +36,7 @@ export default function AppWebsiteVisits({ title, subheader, chartLabels, chartD
   });
 
   return (
-    <Card {...other}>
+    <Card sx={{border :'2px solid black',}} {...other} >
       <CardHeader title={title} subheader={subheader} />
 
       <Box sx={{ p: 2, pb: 1 }} dir="ltr">

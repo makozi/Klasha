@@ -38,9 +38,10 @@ export default function AppWidgetSummary({ title, total, icon, url,color = 'prim
       sx={{
         py: 5,
         boxShadow: 0,
+        borderColor:'1px solid black',
         textAlign: 'center',
         color: (theme) => theme.palette[color].darker,
-        border: '1px solid black' ,
+        border :'2px solid black',
         bgcolor: (theme) => theme.palette[color].lighter,
         ...sx,
       }}

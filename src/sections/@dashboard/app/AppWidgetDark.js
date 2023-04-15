@@ -38,12 +38,12 @@ export default function AppWidgetDark({ title, total, icon, url,color = 'primary
       sx={{
         py: 12,
         boxShadow: 0,
-        textAlign: 'left',
-        border: '1px solid black' ,
+        textAlign: 'left', 
         paddingLeft: 4,
         color: "white",
         // bgcolor: (theme) => theme.palette[color].lighter,
         bgcolor: "#000",
+        border :'2px solid black',
         ...sx,
       }}
       {...other}

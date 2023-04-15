@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6a05cbf.css",
+    "main.js": "/static/js/main.ad67e7b4.js",
+    "static/js/963.528f65b3.chunk.js": "/static/js/963.528f65b3.chunk.js",
+    "static/js/413.2ca4a00e.chunk.js": "/static/js/413.2ca4a00e.chunk.js",
+    "static/js/636.53209213.chunk.js": "/static/js/636.53209213.chunk.js",
+    "static/js/988.4ead476d.chunk.js": "/static/js/988.4ead476d.chunk.js",
+    "static/media/Athletics-Regular.woff2": "/static/media/Athletics-Regular.1e617484d1f6abaa8cf4.woff2",
+    "static/media/Athletics-Bold.woff2": "/static/media/Athletics-Bold.7bfbaa92d39a42675327.woff2",
+    "static/media/logo.svg": "/static/media/logo.2514a36d8785cd4d4468961992571f27.svg",
+    "index.html": "/index.html",
+    "main.a6a05cbf.css.map": "/static/css/main.a6a05cbf.css.map",
+    "main.ad67e7b4.js.map": "/static/js/main.ad67e7b4.js.map",
+    "963.528f65b3.chunk.js.map": "/static/js/963.528f65b3.chunk.js.map",
+    "413.2ca4a00e.chunk.js.map": "/static/js/413.2ca4a00e.chunk.js.map",
+    "636.53209213.chunk.js.map": "/static/js/636.53209213.chunk.js.map",
+    "988.4ead476d.chunk.js.map": "/static/js/988.4ead476d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a05cbf.css",
+    "static/js/main.ad67e7b4.js"
+  ]
+}

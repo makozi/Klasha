@@ -44,6 +44,7 @@ export default function AppWebsitePinkCard({ title, subheader,  titletop,titlebo
         height:"96%",
         color: "white",
         bgcolor: "#ef2c5a",
+        border :'2px solid black',
          
       }} {...other}>
       <CardHeader title={title} subheader={subheader} />

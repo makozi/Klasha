@@ -39,7 +39,7 @@ export default function AppWidgetSummary({ title, total, icon, url,color = 'prim
         py: 12,
         boxShadow: 0,
         textAlign: 'left',
-        border: '1px solid black' ,
+        border :'2px solid black',
         paddingLeft: 4,
         color: (theme) => theme.palette[color].darker,
         // bgcolor: (theme) => theme.palette[color].lighter,
